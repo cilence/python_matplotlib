@@ -1,0 +1,3 @@
+# python_matplotlib
+用于演示动态使用python matplotlib画图，可以将数据进行动态展示，配合录屏可以生产gif文件展示
+如果使用spyder编辑器建议修改graphics backend为Qt5并重启
